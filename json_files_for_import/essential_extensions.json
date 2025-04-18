@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Code Runner",
+    "description": "Run code snippet or code file for multiple languages",
+    "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner",
+    "link": "Download"
+  },
+  {
+    "name": "ES7 React-Snippets",
+    "description": "JavaScript and React/Redux snippets in ES7+ with Babel plugin features",
+    "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
+    "link": "Download"
+  },
+  {
+    "name": "ESLint",
+    "description": "Code and Rule editor for VS Code (Mandatory Usage)",
+    "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
+    "link": "Download"
+  },
+  {
+    "name": "Live Preview",
+    "description": "An extension that hosts a local server for you to preview your web projects",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server",
+    "link": "Download"
+  },
+  {
+    "name": "Live Server",
+    "description": "Launch a local development server with live reload features for static & dynamic pages",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer",
+    "link": "Download"
+  },
+  {
+    "name": "Live Share",
+    "description": "Real-time collaborative development from the comfort of your favorite tools",
+    "url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare",
+    "link": "Download"
+  },
+  {
+    "name": "Postman",
+    "description": "Postman enables you to develop and test  your APIs in Postman directly from VS Code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=postman.vscode-postman",
+    "link": "Download"
+  },
+  {
+    "name": "Quokka",
+    "description": "A developer productivity tool for viewing runtime values in your IDE next to your code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka",
+    "link": "Download"
+  },
+  {
+    "name": "Quokka Statusbar Buttons",
+    "description": "Adds buttons to the status bar in VS Code to control Quokka",
+    "url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-statusbar",
+    "link": "Download"
+  },
+  {
+    "name": "Prettier",
+    "description": "An opinionated code formatter enforcing strict conditions through formatting and wrapping your code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
+    "link": "Download"
+  }
+]

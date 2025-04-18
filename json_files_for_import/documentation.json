@@ -1,0 +1,62 @@
+[
+  {
+    "name": "DevDocs",
+    "description": "DevDocs combines multiple API documentations in a fast, organized, and searchable interface",
+    "url": "https://devdocs.io/",
+    "link": "Visit"
+  },
+  {
+    "name": "MDN Docs",
+    "description": "The premiere resource document for developers by developers.",
+    "url": "https://developer.mozilla.org/en-US/",
+    "link": "Visit"
+  },
+  {
+    "name": "React",
+    "description": "React is a JavaScript Library for building user interfaces, often used to create interactive and dynamic single-page applications.",
+    "url": "https://react.dev/",
+    "link": "Visit"
+  },
+  {
+    "name": "Redux",
+    "description": "Redux is a predictable state container for JavaScript applications.",
+    "url": "https://redux.js.org/",
+    "link": "Visit"
+  },
+  {
+    "name": "Redux Tool-Kit",
+    "description": "Includes utilities to simplify common use cases like store setup, creating reducers, immutable update logic, and more.",
+    "url": "https://redux-toolkit.js.org/",
+    "link": "Visit"
+  },
+  {
+    "name": "Vite",
+    "description": "Vite is a fast and modern JavaScript build tool and development server for web applications.",
+    "url": "https://redux-toolkit.js.org/",
+    "link": "Visit"
+  },
+  {
+    "name": "Node",
+    "description": "Node is primarily used for backend development, but also plays a significant role in frontend development",
+    "url": "https://nodejs.org/en/docs",
+    "link": "Visit"
+  },
+  {
+    "name": "Express",
+    "description": "Express is a minimal and flexible Node.js web application framework providing a robust set of features for web and mobile applications.",
+    "url": "https://expressjs.com/",
+    "link": "Visit"
+  },
+  {
+    "name": "MySQL",
+    "description": "SQL (Structured Query Language) is a programming language used to manage and manpiulate realational databases",
+    "url": "https://dev.mysql.com/doc/",
+    "link": "Visit"
+  },
+  {
+    "name": "MongoDB",
+    "description": "NoSQL database product; using JSON-like documents with optional schemas.",
+    "url": "https://www.mongodb.com/docs/",
+    "link": "Visit"
+  }
+]

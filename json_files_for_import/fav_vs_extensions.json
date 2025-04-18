@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Auto Close Tag",
+    "description": "Automatically add HTML(and XML) close tag",
+    "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag",
+    "link": "Download"
+  },
+  {
+    "name": "Auto Rename Tag",
+    "description": "Automatically rename paired HTML/XML tag",
+    "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag",
+    "link": "Download"
+  },
+  {
+    "name": "Better Comments",
+    "description": "VS Code Extension used for creating better comments",
+    "url": "https://marketplace.visualstudio.com/items?itemName=aaroncej. better-comments",
+    "link": "Download"
+  },
+  {
+    "name": "Image Preview",
+    "description": "Shows image preview in the gutter and on hover",
+    "url": "https://marketplace.visualstudio.com/items?itemName=kodez.preview",
+    "link": "Download"
+  },
+  {
+    "name": "Lorem Ipsum",
+    "description": "Generate test text to use when working on projects",
+    "url": "https://marketplace.visualstudio.com/items?itemName=baghery.lorem-ipsum",
+    "link": "Download"
+  },
+  {
+    "name": "VS Code-PDF",
+    "description": "Ability to view PDF files in VS Code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf",
+    "link": "Download"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Commit",
+    "description": "This tutorial will walk you through the steps to make your first GitHub commit.",
+    "link": "View"
+  },
+  {
+    "name": "Pull Request",
+    "description": "This tutorial will teach you to create a pull request. (necessary for assessments)",
+    "link": "View"
+  },
+  {
+    "name": "Create New Project",
+    "description": "This tutorial will show you how to create a new repo project",
+    "link": "View"
+  },
+  {
+    "name": "Create New Branch",
+    "description": "This tutorial will show you how to create a new repo branch",
+    "link": "View"
+  },
+  {
+    "name": "Pair Programming Repo Set-up",
+    "description": "This tutorial will show you how to set up a repo with your partner",
+    "link": "View"
+  },
+  {
+    "name": "Pair Programming Repo Pull",
+    "description": "This tutorial will show you how to pull your partner's repo after programming",
+    "link": "View"
+  },
+  {
+    "name": "Pull Hack Hour Algos",
+    "description": "This tutorial will show you how to pull the Hack Hour algorithms",
+    "link": "View"
+  },
+  {
+    "name": "Create a Vite Project",
+    "description": "This tutorial will show you how to create a new full-stack program",
+    "link": "View"
+  }
+]
