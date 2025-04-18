@@ -1,54 +1,19 @@
 import React from 'react';
 
-export default function navBar() {
+export default function NavBar() {
+  // prettier-ignore
   return (
-    <div>
-      <header>
-        <nav>
-          <ul>
-            <li>
-              <span>
-                <a href="/index.html">Home</a>
-              </span>
-            </li>
-            <li>
-              <span>
-                <a href="/JavaScript/javascript.html">JavaScript</a>
-              </span>
-            </li>
-            <li>
-              <span>
-                <a href="/HTML/html.html">HTML</a>
-              </span>
-            </li>
-            <li>
-              <span>
-                <a href="/CSS/css.html">CSS</a>
-              </span>
-            </li>
-            <li>
-              <span>
-                <a href="/VS Code/vs_code.html">VS Code Extensions</a>
-              </span>
-            </li>
-            <li>
-              <span>
-                <a href="/VS Code Shortcuts/vscodeshortcuts.html">VS Code Shortcuts</a>
-              </span>
-            </li>
-            <li>
-              <span>
-                <a href="/GitHub/github.html">Git/GitHub</a>
-              </span>
-            </li>
-            <li>
-              <span>
-                <a href="/documentation/documentation.html">Documentation</a>
-              </span>
-            </li>
-          </ul>
-        </nav>
-      </header>
-    </div>
+    <nav className="nav">
+      <ul>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/JavaScript/javascript.html">JavaScript</a></li>
+        <li><a href="/HTML/html.html">HTML</a></li>
+        <li><a href="/CSS/css.html">CSS</a></li>
+        <li><a href="/VS Code/vs_code.html">VS Code Extensions</a></li>
+        <li><a href="/VS Code Shortcuts/vscodeshortcuts.html">VS Code Shortcuts</a></li>
+        <li><a href="/GitHub/github.html">Git/GitHub</a></li>
+        <li><a href="/documentation/documentation.html">Documentation</a></li>
+      </ul>
+    </nav>
   );
 }

@@ -1,12 +1,13 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Toggle from './components/Toggle';
+import Navbar from './components/NavBar';
 
 const App = () => {
   return (
-    <React.Fragment>
-      <Toggle label="Notifications" />
-      <Toggle label="Subscribe" />
-    </React.Fragment>
+    <div className="bundle">
+      <Navbar />
+      <Toggle label="theme-toggle" />
+    </div>
   );
 };
 
