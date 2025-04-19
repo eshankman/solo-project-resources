@@ -1,12 +1,12 @@
 import React from 'react';
-import Toggle from './components/Toggle';
-import Navbar from './components/NavBar';
+import Navbar from './components/Navbar/Navbar';
+import MainPage from './components/MainPage/mainPage';
 
 const App = () => {
   return (
     <div className="bundle">
       <Navbar />
-      <Toggle label="theme-toggle" />
+      <MainPage />
     </div>
   );
 };
